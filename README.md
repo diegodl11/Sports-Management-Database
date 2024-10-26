@@ -55,4 +55,6 @@ The project is divided into two main components:
 
 ---
 
-Download and modify this file to match your specific setup and requirements. Let me know if you need any additional details added.
+If you wish to contribute to this project, feel free to fork the repository and submit a pull request with your improvements.
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
